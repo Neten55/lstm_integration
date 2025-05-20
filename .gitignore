@@ -1,0 +1,32 @@
+# Python
+_pycache_/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Django / Database
+db.sqlite3
+/media
+/static
+
+# Machine Learning models (if applicable)
+*.keras
+*.h5
+*.pkl
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# VS Code specific files
+.vscode/
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows
